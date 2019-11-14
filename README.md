@@ -14,7 +14,10 @@ machine learning algorithems from scratch implementatiions
   - [wrapper method / feature selection](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/tree/master/algorithms/wrapper_methods)
   
   
-  
+
+### problems
+
+   - [Electricity-problem-logistic-regression](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/blob/master/dataset_playground/Electricity-problem-logistic-regression.ipynb)
   
 this are my personal implementation of this algorithems for educational purpose.
 this have not been tested and verified if they are acurate and efficient implementation.

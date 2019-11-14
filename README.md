@@ -12,6 +12,7 @@ machine learning algorithems from scratch implementatiions
 ### optimization and Additional
 
   - [wrapper method / feature selection](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/tree/master/algorithms/wrapper_methods)
+  - [cross validation example](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/blob/master/algorithms/cross_validation/cross%20validation%20logistic%20regression.ipynb)
   
   
 

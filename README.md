@@ -24,6 +24,13 @@ machine learning algorithems from scratch implementatiions
 ### problems
 
    - [Electricity-problem-logistic-regression](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/blob/master/dataset_playground/Electricity-problem-logistic-regression.ipynb)
+   
+   
+### COMING SOON
+   - [SMS Spam Collection Dataset](https://www.kaggle.com/ishansoni/sms-spam-collection-dataset)
+   - updated KNN
+   - [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+   
   
 this are my personal implementation of this algorithems for educational purpose.
 this have not been tested and verified if they are acurate and efficient implementation.

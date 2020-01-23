@@ -8,6 +8,7 @@ machine learning algorithems from scratch implementatiions
   - [linear regression](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/tree/master/algorithms/linear_regression)
   - [logistic regression](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/tree/master/algorithms/logistic_regression)
   - [k-means alghorithem](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/tree/master/algorithms/Kmeans)
+  - [Neural Network](https://github.com/IsraelAbebe/ml-algorithems-from-scratch/blob/master/algorithms/neural-net/Neural_Net.ipynb)
  
 ### optimization and Additional
 
